@@ -29,7 +29,6 @@ CNN based model to detect Melonama(type of cancer)
 - TensorFlow -- version -2.14.0
 - Augmentor -- version -0.2.12
 
-
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
