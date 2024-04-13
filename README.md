@@ -1,5 +1,5 @@
 # MELANOMA_DETECTION_ASSIGNMENT
-CNN based model to detect Melonama(type of cancer)
+CNN based model to detect Melanoma(type of cancer)
 
 ## Table of Contents
 * [General Info](#general-information)
